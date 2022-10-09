@@ -101,7 +101,7 @@ nulink/nulink nulink ursula init \
 --max-gas-price 100
 ```
 
-*Ganti ```YOUR PUBLIC ADDRESS``` jadi address kalian yang tadi udah backup*
+*Ganti ```YOUR PUBLIC ADDRESS``` jadi address kalian yang tadi udah backup, ga pake tanda kurung <>*
 <p align="center">
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194743231-fe1241ad-c61e-4187-abd8-7d0a3a45c11b.png">
 </p>
