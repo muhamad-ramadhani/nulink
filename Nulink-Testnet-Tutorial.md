@@ -154,8 +154,7 @@ docker logs -f ursula
       https://123.45.67.890:9151/
     - Klik ```Bond```
 <p align="center">
-  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194743852-3742752b-bad4-4185-abda-abfe14464bc7.png
-">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194743852-3742752b-bad4-4185-abda-abfe14464bc7.png">
 </p>
 
 ## DONE
