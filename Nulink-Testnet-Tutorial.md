@@ -11,12 +11,6 @@
 *Dokumen Official*
 > [Testnet](https://docs.nulink.org/products/testnet)
 
-|  Komponen |  Persyaratan Rekomendasi |
-| ------------ | ------------ |
-| CPU  | 4 VCPU  |
-| RAM | 8 GB  |
-| Penyimpanan  | 100 GB SSD |
-
 **LESGO!!**
 
 ## 1. Jadi Root User dulu
