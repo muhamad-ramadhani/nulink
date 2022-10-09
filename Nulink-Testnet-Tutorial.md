@@ -149,7 +149,15 @@ docker logs -f ursula
 <p align="center">
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194743567-07242a21-7b26-4433-8d80-3388e2264c32.png">
 </p>
-- Scroll ke bawah, klik ```Bond Worker``
+- Scroll ke bawah, klik ```Bond Worker```
+
 - Isi form sesuai data kalian
-    - Worker Adress Should be your public address
-    - Node Url Should be your https://IP:9151/ for Example https://123.45.67.890:9151/ ( Make sure to Copy everything ! dont miss any / Or else you will get an error)
+    
+    - Worker Adress = Address kalian (yg di node)
+    
+    - Node Url = https://IPkalian:9151/ 
+      *Contoh :*
+      https://123.45.67.890:9151/
+    - Klik ```Bond```
+    
+
