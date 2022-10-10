@@ -49,6 +49,11 @@ source $HOME/.bash_profile
 Setelah run command terserbut, keystore kalian akan disimpan di 
 ```/root/geth-linux-amd64-1.10.24-972007a5/keystore/UTC-XXXXX```
 
+sekarang ke directory tersebut
+```
+cd /root/geth-linux-amd64-1.10.24-972007a5/keystore/
+```
+
 Ubah nama keystore UTC-XXXX jadi ```key```
 
 Misal
