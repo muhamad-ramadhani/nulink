@@ -67,7 +67,7 @@ mv UTC--2022-09-17T05-27-00.315775527Z--b045627fd6c57577bba32192d8XXXXXXXX key
 
 ## 4. Copy keystore ke directory Nulink
 ```
-cp <keystore path> /root/nulink
+cp key /root/nulink
 ```
 
 Sekarang ke directory Nulink
