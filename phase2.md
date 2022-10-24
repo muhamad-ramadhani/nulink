@@ -52,6 +52,7 @@ Kenapa harus wallet baru, gw dah nanya coeg
 ![image](https://user-images.githubusercontent.com/72949170/197630629-bdcfa7ed-ce8a-41d2-83e4-bb6be90e54c1.png)
 
 - Kirim BSC + NLK nya ke Wallet Nulink
+
 Sc NLK 
 ```
 0xDa627a1f6Bc94079b0c65C70B3B307799118943D
